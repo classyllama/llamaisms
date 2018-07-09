@@ -141,6 +141,8 @@ __Suggest any updates by [Submitting a New Issue](https://github.com/classyllama
 ### Tech Lead
 > _Definition coming soon..._
 
+---
+
 ## Llama Nation Terms
 ### BC / Business Cell
 > _Definition coming soon..._
@@ -181,6 +183,8 @@ __Suggest any updates by [Submitting a New Issue](https://github.com/classyllama
 ### UI/UX Design
 > _Definition coming soon..._
 
+---
+
 ## eCommerce Terms
 ### AOV / Average Order Value
 > _Definition coming soon..._
@@ -206,6 +210,8 @@ __Suggest any updates by [Submitting a New Issue](https://github.com/classyllama
 ### User Flow / User Path
 > _Definition coming soon..._
 
+---
+
 ## Production Terms
 ### Agile
 > _Definition coming soon..._
@@ -218,6 +224,8 @@ __Suggest any updates by [Submitting a New Issue](https://github.com/classyllama
   
 ### Sprint
 > _Definition coming soon..._
+
+---
 
 ## Development Terms
 ### Backend Development
@@ -265,6 +273,8 @@ __Suggest any updates by [Submitting a New Issue](https://github.com/classyllama
 ### SVG / Scalable Vector Graphics
 > _Definition coming soon..._
 
+---
+
 ## Internet Terms
 ### DNS / Domain Name System
 > _Definition coming soon..._
@@ -283,6 +293,8 @@ __Suggest any updates by [Submitting a New Issue](https://github.com/classyllama
   
 ### SSL / Secure Sockets Layer
 > _Definition coming soon..._
+
+---
 
 ## Design Terms
 ### Adobe Illustrator
@@ -330,6 +342,8 @@ __Suggest any updates by [Submitting a New Issue](https://github.com/classyllama
 ### White Space
 > _Definition coming soon..._
 
+---
+
 ## CCT Terms
 ### BBQ / Barbeque
 > _Definition coming soon..._
@@ -351,6 +365,8 @@ __Suggest any updates by [Submitting a New Issue](https://github.com/classyllama
   
 ### Team Lunch
 > _Definition coming soon..._
+
+---
 
 ## Classy Llama MISC
 ### LlamaDocs
