@@ -4,274 +4,274 @@ Llamaisms are all the terms any llama should know when we work together.
 __Suggest any updates by [Submitting a New Issue](https://github.com/classyllama/llamaisms/issues/new/choose) or emailing [kevin.kirchner@classyllama.com](mailto:kevin.kirchner@classyllama.com).__
 
 ## Roles & Teams
-#### PM / Project Manager
+### PM / Project Manager
 > _Definition Coming Soon_
 
-#### SA / Solutions Architect
+### SA / Solutions Architect
 > _Definition Coming Soon_
 
-#### QA / Quality Assurance
+### QA / Quality Assurance
 > _Definition Coming Soon_
 
-#### Team Director
+### Team Director
 > _Definition Coming Soon_
 
-#### Practice Lead
+### Practice Lead
 > _Definition Coming Soon_
 
-#### Tech Lead
+### Tech Lead
 > _Definition Coming Soon_
 
-#### Sales Consultant
+### Sales Consultant
 > _Definition Coming Soon_
 
-#### Directorial Advisor
+### Directorial Advisor
 > _Definition Coming Soon_
 
-#### Executive Team
+### Executive Team
 > _Definition Coming Soon_
 
-#### Leadership Team
+### Leadership Team
 > _Definition Coming Soon_
 
 
 ## Llama Nation Terms
-#### Llama Nation
+### Llama Nation
 > _Definition Coming Soon_
 
-#### BC / Business Cell
+### BC / Business Cell
 > _Definition Coming Soon_
 
-#### The Government
+### The Government
 > _Definition Coming Soon_
 
-#### CCT / Culture Community Team
+### CCT / Culture Community Team
 > _Definition Coming Soon_
 
-#### Sales & Marketing
+### Sales & Marketing
 > _Definition Coming Soon_
 
-#### Finance
+### Finance
 > _Definition Coming Soon_
 
-#### IT Services
+### IT Services
 > _Definition Coming Soon_
 
-#### Recruiting
+### Recruiting
 > _Definition Coming Soon_
 
-#### Production
+### Production
 > _Definition Coming Soon_
 
-#### Development
+### Development
 > _Definition Coming Soon_
 
-#### UI/UX Design
+### UI/UX Design
 > _Definition Coming Soon_
 
-#### Client Services
+### Client Services
 > _Definition Coming Soon_
 
-#### Systems Engineering
+### Systems Engineering
 > _Definition Coming Soon_
 
 
 ## eCommerce Terms
-#### Brand
+### Brand
 > _Definition Coming Soon_
 
-#### Shopping Experience
+### Shopping Experience
 > _Definition Coming Soon_
 
-#### eCommerce
+### eCommerce
 > _Definition Coming Soon_
 
-#### User Flow / User Path
+### User Flow / User Path
 > _Definition Coming Soon_
 
-#### Conversion Funnel
+### Conversion Funnel
 > _Definition Coming Soon_
 
-#### AOV / Average Order Value
+### AOV / Average Order Value
 > _Definition Coming Soon_
 
-#### Traffic
+### Traffic
 > _Definition Coming Soon_
 
-#### Conversion Rate
+### Conversion Rate
 > _Definition Coming Soon_
 
 
 ## Production Terms
-#### Retainer
+### Retainer
 > _Definition Coming Soon_
 
-#### Agile
+### Agile
 > _Definition Coming Soon_
 
-#### Sprint
+### Sprint
 > _Definition Coming Soon_
 
-#### Spike
+### Spike
 > _Definition Coming Soon_
 
 
 ## Development Terms
-#### Local Environment
+### Local Environment
 > _Definition Coming Soon_
 
-#### Staging Environment
+### Staging Environment
 > _Definition Coming Soon_
 
-#### Production Environment
+### Production Environment
 > _Definition Coming Soon_
 
-#### Load Testing
+### Load Testing
 > _Definition Coming Soon_
 
-#### Backend Development
+### Backend Development
 > _Definition Coming Soon_
 
-#### Frontend Development
+### Frontend Development
 > _Definition Coming Soon_
 
-#### JS / Javascript
+### JS / Javascript
 > _Definition Coming Soon_
 
-#### HTML / Hypertext Markup Language
+### HTML / Hypertext Markup Language
 > _Definition Coming Soon_
 
-#### CSS / Cascading Stylesheets
+### CSS / Cascading Stylesheets
 > _Definition Coming Soon_
 
-#### SVG / Scalable Vector Graphics
+### SVG / Scalable Vector Graphics
 > _Definition Coming Soon_
 
-#### Repo / Git Repository
+### Repo / Git Repository
 > _Definition Coming Soon_
 
-#### Source Control
+### Source Control
 > _Definition Coming Soon_
 
-#### Dev Stack
+### Dev Stack
 > _Definition Coming Soon_
 
-#### Cache-busting
+### Cache-busting
 > _Definition Coming Soon_
 
-#### Hard Refresh
+### Hard Refresh
 > _Definition Coming Soon_
 
 
 ## Internet Terms
-#### Hosting
+### Hosting
 > _Definition Coming Soon_
 
-#### Domain Name
+### Domain Name
 > _Definition Coming Soon_
 
-#### IP / Internet Protocol
+### IP / Internet Protocol
 > _Definition Coming Soon_
 
-#### DNS / Domain Name System
+### DNS / Domain Name System
 > _Definition Coming Soon_
 
-#### SSL / Secure Sockets Layer
+### SSL / Secure Sockets Layer
 > _Definition Coming Soon_
 
-#### HTTP(S) / Hypertext Transfer Protocol (with SSL)
+### HTTP(S) / Hypertext Transfer Protocol (with SSL)
 > _Definition Coming Soon_
 
 
 ## Design Terms
-#### White Space
+### White Space
 > _Definition Coming Soon_
 
-#### Negative Space
+### Negative Space
 > _Definition Coming Soon_
 
-#### Vertical Rhythm
+### Vertical Rhythm
 > _Definition Coming Soon_
 
-#### Typography
+### Typography
 > _Definition Coming Soon_
 
-#### Golden Circles
+### Golden Circles
 > _Definition Coming Soon_
 
-#### Sketch (Application)
+### Sketch (Application)
 > _Definition Coming Soon_
 
-#### Vector File
+### Vector File
 > _Definition Coming Soon_
 
-#### Adobe Illustrator
+### Adobe Illustrator
 > _Definition Coming Soon_
 
-#### Adobe Photoshop
+### Adobe Photoshop
 > _Definition Coming Soon_
 
-#### GIMP (Application)
+### GIMP (Application)
 > _Definition Coming Soon_
 
-#### Mood board
+### Mood board
 > _Definition Coming Soon_
 
-#### High-Fidelity
+### High-Fidelity
 > _Definition Coming Soon_
 
-#### Prototypes
+### Prototypes
 > _Definition Coming Soon_
 
-#### UX / User Experience
+### UX / User Experience
 > _Definition Coming Soon_
 
-#### UI / User Interface
+### UI / User Interface
 > _Definition Coming Soon_
 
 
 ## CCT Terms
-#### Nerf War
+### Nerf War
 > _Definition Coming Soon_
 
-#### Capture the Flag
+### Capture the Flag
 > _Definition Coming Soon_
 
-#### Llama Birthdays
+### Llama Birthdays
 > _Definition Coming Soon_
 
-#### Podcast
+### Podcast
 > _Definition Coming Soon_
 
-#### Team Lunch
+### Team Lunch
 > _Definition Coming Soon_
 
-#### Snacks
+### Snacks
 > _Definition Coming Soon_
 
-#### BBQ / Barbeque
+### BBQ / Barbeque
 > _Definition Coming Soon_
 
 
 ## Classy Llama MISC
-#### Operations
+### Operations
 > _Definition Coming Soon_
 
-#### Marketing Services
+### Marketing Services
 > _Definition Coming Soon_
 
-#### Support / Nucleus Support
+### Support / Nucleus Support
 > _Definition Coming Soon_
 
-#### LlamaDocs
+### LlamaDocs
 > _Definition Coming Soon_
 
-#### WhiteNoise™
+### WhiteNoise™
 > _Definition Coming Soon_
 
-#### Notices
+### Notices
 > _Definition Coming Soon_
 
-#### Notice Fail
+### Notice Fail
 > _Definition Coming Soon_
 
