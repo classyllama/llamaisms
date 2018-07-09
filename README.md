@@ -1,2 +1,2 @@
-# llamaisms
-All the terms us llamas know, but would need to explain to the rest of the world
+# Llamaisms
+Llamaisms are all the terms any llama should know when we work together.
