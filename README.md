@@ -3,6 +3,8 @@ Llamaisms are all the terms any llama should know when we work together.
 
 __Suggest any updates by [Submitting a New Issue](https://github.com/classyllama/llamaisms/issues/new/choose) or emailing [kevin.kirchner@classyllama.com](mailto:kevin.kirchner@classyllama.com).__
 
+## Table of Contents
+
 - [ ] [Roles & Teams](#roles--teams)
   - [ ] [PM / Project Manager](#pm--project-manager)
   - [ ] [SA / Solutions Architect](#sa--solutions-architect)
